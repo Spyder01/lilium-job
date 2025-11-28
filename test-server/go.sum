@@ -25,6 +25,8 @@ github.com/spyder01/lilium-job v0.0.6 h1:H854rqC47HKFjFJlmtn5S8PI6fjy7SJ+SkMiY6b
 github.com/spyder01/lilium-job v0.0.6/go.mod h1:aABdvrZj5fOiHsQFn48/2a1eD8CF9kHEMgA+KiEAjug=
 github.com/spyder01/lilium-job v0.0.7 h1:WLTP5+rjyZ/oLW2PbC1UDsDmn/qWF5NJNcBeCyca4v8=
 github.com/spyder01/lilium-job v0.0.7/go.mod h1:igknzkNPK0tTc3KIeZXaRLyjm028JqKSiu7161tIsFA=
+github.com/spyder01/lilium-job v0.1.0 h1:Fq97k5E0n2N8/Q0WrVh8MS8saUQTXjiz0QSTLxDLPIM=
+github.com/spyder01/lilium-job v0.1.0/go.mod h1:igknzkNPK0tTc3KIeZXaRLyjm028JqKSiu7161tIsFA=
 github.com/spyder01/lilium-job-runner-module v0.0.1 h1:gNirOkUZCZC0sM0xnUItEebrIxgpdL2pEvPnzQZmSKA=
 github.com/spyder01/lilium-job-runner-module v0.0.1/go.mod h1:CBGRGm6l4yBvgiOJrvbZwPYVMbgLU2QgDNulVYoZoHs=
 golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=

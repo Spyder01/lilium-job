@@ -9,7 +9,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/rs/zerolog v1.34.0 // indirect
 	github.com/spyder01/lilium-go v0.2.11 // indirect
-	github.com/spyder01/lilium-job v0.0.7 // indirect
+	github.com/spyder01/lilium-job v0.1.0 // indirect
 	golang.org/x/sys v0.38.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
