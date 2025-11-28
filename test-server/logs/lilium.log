@@ -40,3 +40,147 @@
 {"level":"info","time":"2025-11-28T23:36:02+05:30","message":"Stopping all the attached modules..."}
 {"level":"info","time":"2025-11-28T23:36:02+05:30","message":"Shutting down modules..."}
 {"level":"info","time":"2025-11-28T23:36:02+05:30","message":"Stopped all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Registering module: Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Initializing modules..."}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"→ Init Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Initializing background jobs module..."}
+{"level":"warn","time":"2025-11-28T23:41:30+05:30","message":"Job disabled: test-job"}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Mounting static files"}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Mounted static files"}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Starting all the modules..."}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Starting modules..."}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"→ Start Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Starting background jobs..."}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Started all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Running onStart tasks..."}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Startup tasks complete."}
+{"level":"info","time":"2025-11-28T23:41:30+05:30","message":"Listening on :8080"}
+{"level":"info","time":"2025-11-28T23:41:36+05:30","message":"Shutting down server..."}
+{"level":"info","time":"2025-11-28T23:41:36+05:30","message":"Running onStop tasks..."}
+{"level":"info","time":"2025-11-28T23:41:36+05:30","message":"Stopping all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:41:36+05:30","message":"Shutting down modules..."}
+{"level":"info","time":"2025-11-28T23:41:36+05:30","message":"→ Shutdown Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:41:36+05:30","message":"Shutting down background jobs..."}
+{"level":"info","time":"2025-11-28T23:41:36+05:30","message":"All background jobs stopped gracefully"}
+{"level":"info","time":"2025-11-28T23:41:36+05:30","message":"Stopped all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Registering module: Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Initializing modules..."}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"→ Init Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Initializing background jobs module..."}
+{"level":"warn","time":"2025-11-28T23:44:17+05:30","message":"Job disabled: test-job"}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Mounting static files"}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Mounted static files"}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Starting all the modules..."}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Starting modules..."}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"→ Start Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Starting background jobs..."}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Started all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Running onStart tasks..."}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Startup tasks complete."}
+{"level":"info","time":"2025-11-28T23:44:17+05:30","message":"Listening on :8080"}
+{"level":"info","time":"2025-11-28T23:44:24+05:30","message":"Shutting down server..."}
+{"level":"info","time":"2025-11-28T23:44:24+05:30","message":"Running onStop tasks..."}
+{"level":"info","time":"2025-11-28T23:44:24+05:30","message":"Stopping all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:44:24+05:30","message":"Shutting down modules..."}
+{"level":"info","time":"2025-11-28T23:44:24+05:30","message":"→ Shutdown Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:44:24+05:30","message":"Shutting down background jobs..."}
+{"level":"info","time":"2025-11-28T23:44:24+05:30","message":"All background jobs stopped gracefully"}
+{"level":"info","time":"2025-11-28T23:44:24+05:30","message":"Stopped all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Registering module: Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Initializing modules..."}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"→ Init Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Initializing background jobs module..."}
+{"level":"warn","time":"2025-11-28T23:44:25+05:30","message":"Job disabled: test-job"}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Mounting static files"}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Mounted static files"}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Starting all the modules..."}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Starting modules..."}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"→ Start Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Starting background jobs..."}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Started all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Running onStart tasks..."}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Startup tasks complete."}
+{"level":"info","time":"2025-11-28T23:44:25+05:30","message":"Listening on :8080"}
+{"level":"info","time":"2025-11-28T23:45:11+05:30","message":"Shutting down server..."}
+{"level":"info","time":"2025-11-28T23:45:11+05:30","message":"Running onStop tasks..."}
+{"level":"info","time":"2025-11-28T23:45:11+05:30","message":"Stopping all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:45:11+05:30","message":"Shutting down modules..."}
+{"level":"info","time":"2025-11-28T23:45:11+05:30","message":"→ Shutdown Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:45:11+05:30","message":"Shutting down background jobs..."}
+{"level":"info","time":"2025-11-28T23:45:11+05:30","message":"All background jobs stopped gracefully"}
+{"level":"info","time":"2025-11-28T23:45:11+05:30","message":"Stopped all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Registering module: Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Initializing modules..."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"→ Init Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Initializing background jobs module..."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Job registered: name=test-job interval=5s repeat=true"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Mounting static files"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Mounted static files"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Starting all the modules..."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Starting modules..."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"→ Start Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Starting background jobs..."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Started all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Running onStart tasks..."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Startup tasks complete."}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Listening on :8080"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:45:12+05:30","message":"Job success: test-job (6.417µs)"}
+{"level":"info","time":"2025-11-28T23:45:17+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:45:17+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:45:17+05:30","message":"Job success: test-job (10.916µs)"}
+{"level":"info","time":"2025-11-28T23:45:22+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:45:22+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:45:22+05:30","message":"Job success: test-job (4.125µs)"}
+{"level":"info","time":"2025-11-28T23:45:27+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:45:27+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:45:27+05:30","message":"Job success: test-job (1.625µs)"}
+{"level":"info","time":"2025-11-28T23:45:32+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:45:32+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:45:32+05:30","message":"Job success: test-job (4.375µs)"}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Job success: test-job (11.208µs)"}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Shutting down server..."}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Running onStop tasks..."}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Stopping all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Shutting down modules..."}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"→ Shutdown Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Shutting down background jobs..."}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Job stopped: test-job"}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"All background jobs stopped gracefully"}
+{"level":"info","time":"2025-11-28T23:45:37+05:30","message":"Stopped all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Registering module: Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Initializing modules..."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"→ Init Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Initializing background jobs module..."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Job registered: name=test-job interval=5s repeat=true"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Mounting static files"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Mounted static files"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Starting all the modules..."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Starting modules..."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"→ Start Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Starting background jobs..."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Started all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Running onStart tasks..."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Startup tasks complete."}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Listening on :8080"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:48:39+05:30","message":"Job success: test-job (708ns)"}
+{"level":"info","time":"2025-11-28T23:48:44+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:48:44+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:48:44+05:30","message":"Job success: test-job (11.417µs)"}
+{"level":"info","time":"2025-11-28T23:48:49+05:30","message":"Job run begin: test-job (attempt 1)"}
+{"level":"info","time":"2025-11-28T23:48:49+05:30","message":"Hello from job"}
+{"level":"info","time":"2025-11-28T23:48:49+05:30","message":"Job success: test-job (10.75µs)"}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"Shutting down server..."}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"Running onStop tasks..."}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"Stopping all the attached modules..."}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"Shutting down modules..."}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"→ Shutdown Lilium Job Runner Module"}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"Shutting down background jobs..."}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"Job stopped: test-job"}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"All background jobs stopped gracefully"}
+{"level":"info","time":"2025-11-28T23:48:50+05:30","message":"Stopped all the attached modules..."}

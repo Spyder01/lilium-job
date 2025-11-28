@@ -19,6 +19,11 @@ func main() {
 
 	module := liliumjob.New(module_cfg)
 
+	module.RegisterTask("test-job", func(ctx *lilium.AppContext) error {
+		ctx.GetLogger().Info("Hello from job")
+		return nil
+	})
+
 	app.UseModule(module)
 
 	app.Start(router)
