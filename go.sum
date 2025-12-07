@@ -43,6 +43,8 @@ github.com/spyder01/lilium-go v0.2.11 h1:pvg/oZER9Ti+EZL8goyq+u78jW7K2kkhOrgBMWG
 github.com/spyder01/lilium-go v0.2.11/go.mod h1:TxporEuaIqMJIYZSFxc+24FeQLpssLAXLhO+hhljGyo=
 github.com/spyder01/lilium-go v0.5.0 h1:Xko1yneEv4Tf0G9aQjiMOpv63DSRmhLJW3AvsKrLQKk=
 github.com/spyder01/lilium-go v0.5.0/go.mod h1:BxpuBt/eKgosN/OSKB17whdd0jb5UmMKENZNUpIEaqA=
+github.com/spyder01/lilium-go v0.7.0 h1:58U1hCT1d1PGyqMQa3w5XcHn7A0Q5heAEvlJXFL/Wog=
+github.com/spyder01/lilium-go v0.7.0/go.mod h1:BxpuBt/eKgosN/OSKB17whdd0jb5UmMKENZNUpIEaqA=
 github.com/spyder01/lilium-job-runner-module v0.0.1 h1:gNirOkUZCZC0sM0xnUItEebrIxgpdL2pEvPnzQZmSKA=
 github.com/spyder01/lilium-job-runner-module v0.0.1/go.mod h1:CBGRGm6l4yBvgiOJrvbZwPYVMbgLU2QgDNulVYoZoHs=
 golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
